@@ -1,7 +1,7 @@
 # 一个云编译UA2F固件的项目
 
 ###### 在使用中有任何问题，欢迎反馈给我，目前加入了防火墙规则
-
+* 目前还在测试
 <br>使用的是<a href="https://github.com/coolsnowwolf/lede">lede</a>源码
 <br>感谢
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">SunBk201</a>，
