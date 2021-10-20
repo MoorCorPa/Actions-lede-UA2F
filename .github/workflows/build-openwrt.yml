@@ -96,8 +96,8 @@ jobs:
         find dl -size -1024c -exec rm -f {} \;
 
     - name: Set Firewall.user
-    id: Firewall
-    run: |
+     id: Firewall
+     run: |
       cd openwrt
       mv $FIREWALL_USER_FILE package/network/config/firewall/files/firewall.user
 
